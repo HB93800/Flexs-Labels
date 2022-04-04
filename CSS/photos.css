@@ -1,0 +1,85 @@
+.container{
+    width: 70%;
+    margin: 0 auto;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    padding: 1%;
+    font-size: 1em;
+}
+hr{
+
+    background-color: #F3F33;
+    height: 1px; 
+}
+
+header{
+    /*background: red;*/
+   ;
+}
+.titre1{
+    text-transform: capitalize;
+    text-align: center;
+    margin: 20px auto;
+}
+nav{
+    
+    
+}
+.texte1{
+    /*text-align: center;*/
+   text-align: center;
+    width: 70%;
+    text-align: center;
+    margin: 20px auto;
+}
+figure{
+    /*width:30%;*/
+}
+figcaption{
+    text-align:center;
+    width: 80%;
+    margin: 0 auto;
+}
+.container2{
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+   /* height: 400px;*/
+    margin: 0 auto;
+
+}
+.container2 img{
+    width:20vw;
+    height: 35vh;
+}
+.container3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width:68vw;
+    margin: 0 auto;
+}
+img{
+    border-radius:50%;
+
+}
+.container3 img{
+    width: 10vw;
+    height: 15vh;
+    object-fit: cover;
+
+}
+.capsimag{
+    display: flex;
+    justify-content: center;
+}
+i{
+    text-transform: capitalize;
+}
+.testlabel{
+    display: block;
+    padding: 1%;
+}
+.inputfile{
+    padding-bottom: 20px;
+}
